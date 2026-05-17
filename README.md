@@ -1,7 +1,6 @@
-# ejercicio-alumno
+# [Casino Royale: enunciado](https://docs.google.com/document/d/1DFcRQqRKeE2yGUqfQD9YVum4GMPS0L3roYL42nTExUw/edit?usp=sharing)
 
 ## Integrantes
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+- Mati Freyre (matifreyre)
+- Leo se ausentó
