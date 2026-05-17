@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "2026CasinoRoyale:lib"
+
+    - path: "./test"
+      component: "2026CasinoRoyale:test:2026CasinoRoyale-test"
